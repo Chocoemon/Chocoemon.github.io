@@ -26,4 +26,4 @@
 
 ## 3. 퀴즈와 관련된 파일 주소
 - 아래 주소에 접속해서 퀴즈지가 준비되어 있어야 합니다. (매 수업시간마다 업데이트 해줌!)
-- 퀴즈 주소: https://www.dropbox.com/t/mWVF2l2j1rfiZG3K
+- 퀴즈 주소: https://www.dropbox.com/t/wxTuivjThkFZ9ypB
