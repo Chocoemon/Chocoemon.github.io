@@ -19,11 +19,11 @@
 - 위에 설명한 어플과 관련해서, 메뉴얼을 만들어 놓았습니다. 아래 링크주소를 타고 들어가 한번 씩 읽어보기 바랍니다.
 - 각 학년별로 유인물도 이번에는 pdf로 배부하였으니, 참고하기 바랍니다.
 
-메뉴얼 주소: https://www.dropbox.com/t/jfJJ1HA7lIcuBKtJ
-강의록 주소: https://www.dropbox.com/t/960tSzNRs0MhJfxW (초5, 초6)
+- 메뉴얼 주소: https://www.dropbox.com/t/jfJJ1HA7lIcuBKtJ
+-
 
 <hr/>
 
 ## 3. 퀴즈와 관련된 파일 주소
 - 아래 주소에 접속해서 퀴즈지가 준비되어 있어야 합니다. (매 수업시간마다 업데이트 해줌!)
-- 퀴즈 주소: 
+- 퀴즈 주소: https://www.dropbox.com/t/mWVF2l2j1rfiZG3K
